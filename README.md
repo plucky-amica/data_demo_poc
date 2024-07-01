@@ -1,2 +1,6 @@
-# data_demo_poc
-This repo is for the demo today
+# Data Engineering Project
+
+This is a sample data engineering project demonstrating an ETL pipeline.
+
+## Directory Structure
+
